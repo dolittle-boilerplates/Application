@@ -1,4 +1,4 @@
 module.exports = {
-    name: "Basic template",
-    description: "This is a basic boilerplate"
+    name: "Application template",
+    description: "This is the application template"
  };
