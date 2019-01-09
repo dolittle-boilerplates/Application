@@ -1,0 +1,20 @@
+{
+  "name": "@dolittle/boilerplates.application",
+  "version": "1.0.0",
+  "description": "Standard application boiler plates",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dolittle-boilerplates/ApplicationTemplate.git"
+  },
+  "keywords": [
+    "boilerplates"
+  ],
+  "author": "Dolittle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dolittle-boilerplates/ApplicationTemplate/issues"
+  },
+  "homepage": "https://github.com/dolittle-boilerplates/ApplicationTemplate#readme"
+}
