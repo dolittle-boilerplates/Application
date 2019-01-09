@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/dolittle-boilerplates/ApplicationTemplate/issues"
   },
-  "homepage": "https://github.com/dolittle-boilerplates/ApplicationTemplate#readme"
+  "publishConfig": {
+      "access": "public"
+  },
+  "homepage": "https://dolittle.io"
 }
