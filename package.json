@@ -2,6 +2,9 @@
   "name": "@dolittle/boilerplates.application",
   "version": "2.0.0",
   "description": "Standard application boilerplate",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dolittle-boilerplates/ApplicationTemplate.git"
