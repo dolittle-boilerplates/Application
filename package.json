@@ -9,11 +9,7 @@
     "type": "git",
     "url": "git+https://github.com/dolittle-boilerplates/ApplicationTemplate.git"
   },
-  "keywords": [
-    "dolittle",
-    "boilerplates",
-    "application"
-  ],
+  "keywords": ["dolittle", "boilerplates", "application"],
   "dolittle": {
     "tooling": "5"
   },
