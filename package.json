@@ -14,6 +14,9 @@
     "boilerplates",
     "application"
   ],
+  "dolittle": {
+    "tooling": "5"
+  },
   "author": "Dolittle",
   "license": "MIT",
   "bugs": {
