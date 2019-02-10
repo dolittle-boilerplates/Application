@@ -1,13 +1,15 @@
 {
   "name": "@dolittle/boilerplates.application",
-  "version": "1.0.0",
-  "description": "Standard application boiler plates",
+  "version": "2.0.0",
+  "description": "Standard application boilerplate",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dolittle-boilerplates/ApplicationTemplate.git"
   },
   "keywords": [
-    "boilerplates"
+    "dolittle",
+    "boilerplates",
+    "application"
   ],
   "author": "Dolittle",
   "license": "MIT",
