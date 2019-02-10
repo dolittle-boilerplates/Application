@@ -1,7 +1,7 @@
 {
   "name": "@dolittle/boilerplates.application",
   "version": "2.0.0",
-  "description": "Standard application boilerplate",
+  "description": "Application boilerplate for the Dolittle platform",
   "publishConfig": {
     "access": "public"
   },
@@ -19,5 +19,5 @@
   "bugs": {
     "url": "https://github.com/dolittle-boilerplates/ApplicationTemplate/issues"
   },
-  "homepage": "https://github.com/dolittle-boilerplates/ApplicationTemplate#readme"
+  "homepage": "https://dolittle.io"
 }

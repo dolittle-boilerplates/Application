@@ -1,2 +1,3 @@
-# ApplicationTemplate
-The Dolittle boilerplate of a standard application configuration
+#Application Boilerplate
+
+This is Dolittle's standard application boilerplate.
